@@ -12,6 +12,7 @@ Created using React.
 
 ![image](https://user-images.githubusercontent.com/58227328/188280740-4e18ff7c-d761-4e47-b639-c0440878ba57.png)
 
+Follow the following instruction to run the project.
 
 # Getting Started with Create React App
 
